@@ -1,0 +1,17 @@
+
+PODS:
+- MKNetworkKit (0.87):
+  - Reachability (~> 3.1.0)
+- RaptureXML (1.0.1)
+- Reachability (3.1.0)
+
+DEPENDENCIES:
+- MKNetworkKit
+- RaptureXML
+
+SPEC CHECKSUMS:
+  MKNetworkKit: 3d581af82df1a59e38efef8afef08437cef0df69
+  RaptureXML: ef017fda62eb95c60300108366d1f0cd0c28cbd4
+  Reachability: 1c8584c5f26fa776695efef95caaa50402c94cfb
+
+COCOAPODS: 0.16.4
