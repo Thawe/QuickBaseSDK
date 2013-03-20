@@ -1,4 +1,4 @@
 QuickBaseSDK
 ============
 
-An incomplete SDK for Quickbase.com
+An incomplete SDK for QuickBase.com
